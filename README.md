@@ -11,4 +11,4 @@ Incomplete, please wait for a release in the Releases tab.
 - I don't want to have this run in the background all of the time, but instead to be ran with Task Scheduler.
 
 ### Disclaimer:
-I'm not that well versed in PowerShell scripting and some (if not, most) of this code will be kinda jank.
+I'm not that well versed in PowerShell scripting and some (if not, most) of this code will be kinda jank. If you want to fix the jank, send in a pull request with cleaner code :).
