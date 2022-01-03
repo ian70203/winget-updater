@@ -1,5 +1,8 @@
 # winget-updater
-A clone of Ubuntu Software Updater, but for Windows and winget
+A clone of Ubuntu Software Updater, but for Windows and winget. Written in PowerShell.
+
+## Release Status
+Incomplete, please wait for a release in the Releases tab.
 
 ## Goals
 - Make a PowerShell script that would allow for checking `winget upgrade` and parsing the information into a rudimentary GUI.
